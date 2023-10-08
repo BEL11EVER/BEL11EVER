@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python Basic to Advanced**
 
-- 📝 I regularly write articles on [website/abdullah-zishan](https://sites.google.com/view/abdullahzishan)
+- 📝 I regularly write articles on [/abdullah-zishan](https://sites.google.com/view/abdullahzishan)
 
 - 💬 Ask me about **Python**
 
