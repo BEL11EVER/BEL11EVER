@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **zishanbd30@gmail.com**
 
-- 📄 Know about my experiences [Abdullah Zishan](https://www.linkedin.com/in/abdullah-zishan-2232b0281/)
+- 📄 Know about my experiences [abdullah-zishan](https://www.linkedin.com/in/abdullah-zishan-2232b0281/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
