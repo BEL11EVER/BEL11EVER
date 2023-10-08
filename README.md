@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python Basic to Advanced**
 
-- 📝 I regularly write articles on [https://sites.google.com/view/abdullahzishan](https://sites.google.com/view/abdullahzishan)
+- 📝 I regularly write articles on [website/abdullah-zishan](https://sites.google.com/view/abdullahzishan)
 
 - 💬 Ask me about **Python**
 
@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-zishan-2232b0281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-zishan-2232b0281/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdullah-zishan-2232b0281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-zishan-2232b0281/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mdabdullahzishan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdabdullahzishan/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/muhammad1215225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/muhammad1215225" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/muhammad1215225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/muhammad1215225" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
